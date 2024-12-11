@@ -1,0 +1,231 @@
+.conteiner1{
+    background-color: aquamarine;
+    width:100%;
+    display: flex;
+    justify-content:center;
+    border-radius: 100px;
+    text-align: center;
+}
+h1{
+    color: rgb(250, 250, 250);
+}
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #e9c4a2;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
+    position: fixed;
+    top: 0;
+    width:100%;
+    height: 120px;
+    z-index: 999;
+    font-family:cursive;
+}
+.logo{
+    display: flex;
+    padding: 0 15px;
+
+}
+.logo img{
+    width: 95px;
+    height: auto;
+}
+nav ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    margin: 0 10px;
+    
+}
+
+nav li a{
+    color: rgb(230, 225, 216);
+    text-decoration: none;
+
+}
+
+nav li a:hover{
+    color: #da9b15;
+    text-decoration: none;
+}
+.iconos {
+    display: flex;
+}
+
+.iconos a {
+    margin: 0 10px;
+    color: rgb(230, 225, 216);
+    font-size: 18px;
+}
+.iconos a:hover {
+    color: #d47215;
+}
+.lala{
+    font-size:15px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding:20px                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                erif;
+    color: blue;
+}
+p{
+    font-size:15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img{
+    border: 1px solid red;
+    border-radius: 15px;
+}
+
+.imagen1{
+    display: flex;
+    align-items: center;
+    top: 50%;
+    border: 3px solid;
+    border-radius: 15px;
+}
+.hero-section {
+    background-image: url('imagen/criolla.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    color: rgb(255, 255, 255); 
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+    padding:10px;
+
+}
+h4{
+    font-size: 30px;
+    text-align: center;
+    font-family: cursive;
+}
+.seccion3{
+    background-color: rgb(231, 216, 174);
+    text-align: center;
+}
+.gallery-img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+
+.gallery-item {
+    margin-bottom: 30px;
+}
+.hola{
+    text-align: center;
+    font-size: 1rem;
+    font-family: monospace;
+    padding: 5px;
+
+}
+.seccion5{
+    background-color:white;
+}
+.comida1{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+h5{
+    font-size: 20px;
+    font-family: fantasy;
+    text-align: center;
+    justify-content: center;
+}
+h6{
+    text-align: center;
+    font-size: 25px;
+    font-family: cursive;
+}
+.lala2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.lala3{
+    font-family: fantasy;
+}
+.lala5{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;  
+    font-size:30px;
+    padding: 10px;
+}
+.ola1{
+    background-color: #ddb96a;
+}
+
+
+form {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #40b4c9;
+    border-radius: 20px;
+    margin-top:-300px;
+    margin-left:63%;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    border-radius: 20px;
+    font-family: cursive;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #1197d5;
+    box-sizing: border-box;
+    border-radius: 20px;
+    font-family: cursive;
+}
+.imagen0{
+ border-radius:0;
+ border:rgb(63, 185, 216);
+}
+.imagen1{
+    border: white;
+    margin-left:100px;
+    justify-content: end;
+    display: flex;
+}
+h6{
+     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     text-align: center;
+}
+
+.ola3{
+    justify-content: end;
+    align-items: end;
+}
+.table{
+       border-color: #ddb96a;
+
+}
+footer{
+    background-color: #e9c4a2;
+}
+.final{
+    justify-content: center;
+  font-size: 36px;
+  color: #333;
+  font-weight: bold;
+  text-align: center;
+  display:  grid;
+    
+}
+.ola3{
+    justify-content: flex-end;
+    transform: none;
+}
+
